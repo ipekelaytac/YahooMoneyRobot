@@ -1,0 +1,20 @@
+D:\Visual Studio Projeleri\Borsa Robotları\Yahoo_Para_Robot\Yahoo_Para_Robot\obj\Debug\Yahoo_Para_Robot.csprojAssemblyReference.cache
+D:\Visual Studio Projeleri\Borsa Robotları\Yahoo_Para_Robot\Yahoo_Para_Robot\obj\Debug\Yahoo_Para_Robot.frmMain.resources
+D:\Visual Studio Projeleri\Borsa Robotları\Yahoo_Para_Robot\Yahoo_Para_Robot\obj\Debug\Yahoo_Para_Robot.Properties.Resources.resources
+D:\Visual Studio Projeleri\Borsa Robotları\Yahoo_Para_Robot\Yahoo_Para_Robot\obj\Debug\Yahoo_Para_Robot.csproj.GenerateResource.cache
+D:\Visual Studio Projeleri\Borsa Robotları\Yahoo_Para_Robot\Yahoo_Para_Robot\obj\Debug\Yahoo_Para_Robot.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projeleri\Borsa Robotları\Yahoo_Para_Robot\Yahoo_Para_Robot\bin\Debug\Yahoo_Para_Robot.exe.config
+D:\Visual Studio Projeleri\Borsa Robotları\Yahoo_Para_Robot\Yahoo_Para_Robot\bin\Debug\Yahoo_Para_Robot.exe
+D:\Visual Studio Projeleri\Borsa Robotları\Yahoo_Para_Robot\Yahoo_Para_Robot\bin\Debug\Yahoo_Para_Robot.pdb
+D:\Visual Studio Projeleri\Borsa Robotları\Yahoo_Para_Robot\Yahoo_Para_Robot\obj\Debug\Yahoo_Para_Robot.exe
+D:\Visual Studio Projeleri\Borsa Robotları\Yahoo_Para_Robot\Yahoo_Para_Robot\obj\Debug\Yahoo_Para_Robot.pdb
+C:\Users\Aytaç İpekel\Desktop\Yahoo_Para_Robot\Yahoo_Para_Robot\bin\Debug\Yahoo_Para_Robot.exe.config
+C:\Users\Aytaç İpekel\Desktop\Yahoo_Para_Robot\Yahoo_Para_Robot\bin\Debug\Yahoo_Para_Robot.exe
+C:\Users\Aytaç İpekel\Desktop\Yahoo_Para_Robot\Yahoo_Para_Robot\bin\Debug\Yahoo_Para_Robot.pdb
+C:\Users\Aytaç İpekel\Desktop\Yahoo_Para_Robot\Yahoo_Para_Robot\obj\Debug\Yahoo_Para_Robot.csprojAssemblyReference.cache
+C:\Users\Aytaç İpekel\Desktop\Yahoo_Para_Robot\Yahoo_Para_Robot\obj\Debug\Yahoo_Para_Robot.frmMain.resources
+C:\Users\Aytaç İpekel\Desktop\Yahoo_Para_Robot\Yahoo_Para_Robot\obj\Debug\Yahoo_Para_Robot.Properties.Resources.resources
+C:\Users\Aytaç İpekel\Desktop\Yahoo_Para_Robot\Yahoo_Para_Robot\obj\Debug\Yahoo_Para_Robot.csproj.GenerateResource.cache
+C:\Users\Aytaç İpekel\Desktop\Yahoo_Para_Robot\Yahoo_Para_Robot\obj\Debug\Yahoo_Para_Robot.csproj.CoreCompileInputs.cache
+C:\Users\Aytaç İpekel\Desktop\Yahoo_Para_Robot\Yahoo_Para_Robot\obj\Debug\Yahoo_Para_Robot.exe
+C:\Users\Aytaç İpekel\Desktop\Yahoo_Para_Robot\Yahoo_Para_Robot\obj\Debug\Yahoo_Para_Robot.pdb
